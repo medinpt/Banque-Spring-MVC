@@ -1,1 +1,7 @@
-https://github-readme-stats.vercel.app/api?username=mohamedaitbouaaza&show_icons=true&fbclid=IwAR1Y4Y9TQ_V2dNsvEk8N7jHJJhUJQfBBJWKBU-3m5F3fH-5yhW0axfns-b8
+- Create a Spring Boot project
+- Create the JPA entities
+- Configuring the Data source
+- Create JPA Repository interfaces based on Spring Data
+- Test the DAO layer
+- Create and Test the business layer (Interface and Implementation)
+- Create the Spring MVC based web layer using Tymeleaf as template engine.
