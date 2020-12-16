@@ -4,4 +4,4 @@
 - Create JPA Repository interfaces based on Spring Data
 - Test the DAO layer
 - Create and Test the business layer (Interface and Implementation)
-- Create the Spring MVC based web layer using Tymeleaf as template engine.
+- Create the Spring MVC based web layer using Thymeleaf as template engine.
